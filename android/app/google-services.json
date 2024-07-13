@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "384639865736",
+    "project_id": "fir-store-imagenes",
+    "storage_bucket": "fir-store-imagenes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384639865736:android:12c2854d425af3e876a03d",
+        "android_client_info": {
+          "package_name": "com.fir_store_imagenes.App"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7umE9uKzJ5mRFmEj-lTURNoJz6G8wCEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
